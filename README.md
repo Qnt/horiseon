@@ -8,7 +8,7 @@ This Horieon Social Solution Services, Inc. codebase was refactored for accessib
 
 ## Link of deployed application 🔗
 
-<https://github.com/Qnt/horiseon>
+<https://qnt.github.io/horiseon/>
 
 ## Screenshots of the website 📸
 
