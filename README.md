@@ -12,4 +12,4 @@ This Horieon Social Solution Services, Inc. codebase was refactored for accessib
 
 ## Screenshots of the website 📸
 
-![alt text](qnt.github.io_horiseon_.png)
+![website screenshot](./assets/images/qnt.github.io_horiseon_.png)
